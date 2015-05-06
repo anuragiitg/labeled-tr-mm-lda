@@ -1,0 +1,1 @@
+Introducing label information to the Topic Regression Multi-modal LDA
